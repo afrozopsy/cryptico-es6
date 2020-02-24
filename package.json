@@ -1,0 +1,45 @@
+{
+  "name": "cryptico-es6",
+  "version": "1.0.0",
+  "description": "Up-to-date version of cryptico library.",
+  "main": "./lib/cryptico.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tracker1/cryptico-js.git"
+  },
+  "author": "Afrozopsy.dev",
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "Rye Terrell",
+      "email": "ryeterrell@ryeterrell.net"
+    },
+    {
+      "name": "Roberto Aguilar",
+      "email": "roberto@baremetal.io"
+    },
+    {
+      "name": "PhpMyCoder"
+    }
+  ],
+  "keywords": [
+    "encryption",
+    "cryptography",
+    "public-key",
+    "private-key",
+    "AES",
+    "RSA"
+  ],
+  "bugs": {
+    "url": "https://github.com/tracker1/cryptico-js/issues"
+  },
+  "homepage": "https://github.com/tracker1/cryptico-js",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-concat": "^2.3.4"
+  }
+}
